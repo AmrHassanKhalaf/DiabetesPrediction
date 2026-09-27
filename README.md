@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme-banner.jpg" alt="Diabetes prediction project overview" width="100%" />
+</p>
+
 # Diabetes Prediction
 
 A machine-learning classification project that estimates whether a patient is likely to have diabetes from routine health measurements. The work is documented in the `Diabetes_Prediction.ipynb` notebook and uses the Pima Indians Diabetes dataset.
